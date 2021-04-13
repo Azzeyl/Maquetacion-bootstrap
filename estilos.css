@@ -1,0 +1,49 @@
+header{
+    background:blue;
+    color: white;
+}
+
+.main {
+    background: tomato;
+}
+
+.color_1{
+    background: violet;
+
+}
+
+.color_2{
+    background: turquoise;
+}
+
+.color_3{
+    background: yellowgreen;
+}
+
+.color_4{
+    background: brown;
+
+}
+
+.color_5{
+    background: chocolate;
+}
+
+footer{
+
+    background: darkcyan;
+}
+h3{
+    font-size: 35   px;
+}
+
+.color_autor{
+    color: white;
+}
+
+.color_letras {
+    color: #040EFF;
+}
+.color_autor_2{
+    color:#20E700;
+}
